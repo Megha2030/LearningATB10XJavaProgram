@@ -4,32 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="11 Java Class program">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab013_constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab14_Literals_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab15_Literals_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab16_Boolean_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab17_Literals_P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab18_Character_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab19_NonPrimitive_Literal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/LAb23_Relational_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab20_Assignment_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab21_Arithematic_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab22_Unary_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab24_Concat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab25_BODMAS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab26_Logical_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab27_Comparator_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab28_Interview_Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab30_AND_OR_Gate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab31_interview_question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab32_Interview_Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab33_Interview_Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_05_TypeCast/Lab34_Implicit_TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_05_TypeCast/Lab35_Explicit_TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_05_TypeCast/Lab36_TypeCast.java" afterDir="false" />
+    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="jan18 Java Class program">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab35_TernanayOp_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab36_TernanayOp_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab37_CalculateGrade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab011_Numeric_DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab011_Numeric_DataType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +80,10 @@
     "Application.Lab32_Interview_Question.executor": "Run",
     "Application.Lab33_Interview_Question.executor": "Run",
     "Application.Lab35_Explicit_TypeCasting.executor": "Run",
+    "Application.Lab35_TernanayOp_P1.executor": "Run",
+    "Application.Lab36_TernanayOp_P1.executor": "Run",
     "Application.Lab36_TypeCast.executor": "Run",
+    "Application.Lab37_CalculateGrade.executor": "Run",
     "Application.Printing_9_Table.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -117,52 +99,39 @@
       <recent name="ex_02_java_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab36_TypeCast">
-    <configuration name="Lab31_interview_question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab31_interview_question" />
-      <module name="LearningATB10XJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_05_TypeCast.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab32_Interview_Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab32_Interview_Question" />
-      <module name="LearningATB10XJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_05_TypeCast.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab33_Interview_Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab33_Interview_Question" />
-      <module name="LearningATB10XJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_05_TypeCast.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab37_CalculateGrade">
     <configuration name="Lab35_Explicit_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_05_TypeCast.Lab35_Explicit_TypeCasting" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_05_TypeCast.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab35_TernanayOp_P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab35_TernanayOp_P1" />
+      <module name="LearningATB10XJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab36_TernanayOp_P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab36_TernanayOp_P2" />
+      <module name="LearningATB10XJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,13 +152,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab37_CalculateGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab37_CalculateGrade" />
+      <module name="LearningATB10XJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab37_CalculateGrade" />
+        <item itemvalue="Application.Lab36_TernanayOp_P2" />
+        <item itemvalue="Application.Lab35_TernanayOp_P1" />
         <item itemvalue="Application.Lab36_TypeCast" />
         <item itemvalue="Application.Lab35_Explicit_TypeCasting" />
-        <item itemvalue="Application.Lab33_Interview_Question" />
-        <item itemvalue="Application.Lab32_Interview_Question" />
-        <item itemvalue="Application.Lab31_interview_question" />
       </list>
     </recent_temporary>
   </component>
@@ -218,13 +200,22 @@
       <option name="project" value="LOCAL" />
       <updated>1736876609474</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="jan18 Java Class program">
+      <option name="closed" value="true" />
+      <created>1738261574331</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738261574331</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11 JAn Class program" />
     <MESSAGE value="11 Java Class program" />
-    <option name="LAST_COMMIT_MESSAGE" value="11 Java Class program" />
+    <MESSAGE value="jan18 Java Class program" />
+    <option name="LAST_COMMIT_MESSAGE" value="jan18 Java Class program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
