@@ -4,10 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="11 JAn Class program">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab012_printf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Printing_9_Table.java" afterDir="false" />
+    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="11 Java Class program">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab013_constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab14_Literals_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab15_Literals_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab16_Boolean_Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab17_Literals_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab18_Character_Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab19_NonPrimitive_Literal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/LAb23_Relational_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab20_Assignment_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab21_Arithematic_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab22_Unary_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab24_Concat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab25_BODMAS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab26_Logical_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab27_Comparator_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab28_Interview_Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab30_AND_OR_Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab31_interview_question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab32_Interview_Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab33_Interview_Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_05_TypeCast/Lab34_Implicit_TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_05_TypeCast/Lab35_Explicit_TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_05_TypeCast/Lab36_TypeCast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab011_Numeric_DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab011_Numeric_DataType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +46,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Megha2030"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Megha2030&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Megha2030/LearningATB10XJavaProgram.git",
-    "accountId": "6db35bd9-91b6-4b9d-b219-cf7feadb9f3a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Megha2030/LearningATB10XJavaProgram.git&quot;,
+    &quot;accountId&quot;: &quot;6db35bd9-91b6-4b9d-b219-cf7feadb9f3a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -50,15 +72,36 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HelloWorld.executor": "Run",
+    "Application.LAb23_Relational_Operators.executor": "Run",
     "Application.Lab001_HelloWorldProgram.executor": "Run",
     "Application.Lab002_ShortcutHW.executor": "Run",
     "Application.Lab004_Comments.executor": "Run",
     "Application.Lab005_CommonMath.executor": "Run",
     "Application.Lab007_println_print.executor": "Run",
     "Application.Lab010_Variable_Namings.executor": "Run",
+    "Application.Lab011_Numeric_DataType.executor": "Run",
     "Application.Lab012_printf.executor": "Run",
+    "Application.Lab013_constants.executor": "Run",
     "Application.Lab014_Variables.executor": "Run",
     "Application.Lab015_Variables.executor": "Run",
+    "Application.Lab15_Literals_P2.executor": "Run",
+    "Application.Lab16_Boolean_Literals.executor": "Run",
+    "Application.Lab17_Literals_P3.executor": "Run",
+    "Application.Lab18_Character_Literals.executor": "Run",
+    "Application.Lab19_NonPrimitive_Literal.executor": "Run",
+    "Application.Lab21_Arithematic_Operator.executor": "Run",
+    "Application.Lab22_Unary_Operator.executor": "Run",
+    "Application.Lab24_Concat.executor": "Run",
+    "Application.Lab25_BODMAS.executor": "Run",
+    "Application.Lab26_Logical_Operator.executor": "Run",
+    "Application.Lab27_Comparator_Operator.executor": "Run",
+    "Application.Lab28_Interview_Question.executor": "Run",
+    "Application.Lab30_AND_OR_Gate.executor": "Run",
+    "Application.Lab31_interview_question.executor": "Run",
+    "Application.Lab32_Interview_Question.executor": "Run",
+    "Application.Lab33_Interview_Question.executor": "Run",
+    "Application.Lab35_Explicit_TypeCasting.executor": "Run",
+    "Application.Lab36_TypeCast.executor": "Run",
     "Application.Printing_9_Table.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -74,13 +117,13 @@
       <recent name="ex_02_java_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Printing_9_Table">
-    <configuration name="Lab007_println_print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_java_basics.Lab007_println_print" />
+  <component name="RunManager" selected="Application.Lab36_TypeCast">
+    <configuration name="Lab31_interview_question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab31_interview_question" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_01_java_basics.*" />
+          <option name="PATTERN" value="ex_05_TypeCast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab009_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_java_basics.Lab009_Variables" />
+    <configuration name="Lab32_Interview_Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab32_Interview_Question" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02_java_basics.*" />
+          <option name="PATTERN" value="ex_05_TypeCast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab010_Variable_Namings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_java_basics.Lab010_Variable_Namings" />
+    <configuration name="Lab33_Interview_Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab33_Interview_Question" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02_java_basics.*" />
+          <option name="PATTERN" value="ex_05_TypeCast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab012_printf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_java_basics.Lab012_printf" />
+    <configuration name="Lab35_Explicit_TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_TypeCast.Lab35_Explicit_TypeCasting" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02_java_basics.*" />
+          <option name="PATTERN" value="ex_05_TypeCast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Printing_9_Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_02_java_basics.Printing_9_Table" />
+    <configuration name="Lab36_TypeCast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_05_TypeCast.Lab36_TypeCast" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_02_java_basics.*" />
+          <option name="PATTERN" value="ex_05_TypeCast.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Printing_9_Table" />
-        <item itemvalue="Application.Lab012_printf" />
-        <item itemvalue="Application.Lab010_Variable_Namings" />
-        <item itemvalue="Application.Lab007_println_print" />
-        <item itemvalue="Application.Lab009_Variables" />
+        <item itemvalue="Application.Lab36_TypeCast" />
+        <item itemvalue="Application.Lab35_Explicit_TypeCasting" />
+        <item itemvalue="Application.Lab33_Interview_Question" />
+        <item itemvalue="Application.Lab32_Interview_Question" />
+        <item itemvalue="Application.Lab31_interview_question" />
       </list>
     </recent_temporary>
   </component>
@@ -167,11 +210,35 @@
       <option name="project" value="LOCAL" />
       <updated>1736875809067</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="11 Java Class program">
+      <option name="closed" value="true" />
+      <created>1736876609474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736876609474</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11 JAn Class program" />
-    <option name="LAST_COMMIT_MESSAGE" value="11 JAn Class program" />
+    <MESSAGE value="11 Java Class program" />
+    <option name="LAST_COMMIT_MESSAGE" value="11 Java Class program" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab28_Interview_Question.java</url>
+          <line>3</line>
+          <properties class="ex_04_Operators.Lab28_Interview_Question" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
