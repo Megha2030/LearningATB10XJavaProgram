@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="jan18 Java Class program">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab38_LargestOf3Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab39_Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab40_Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab41_MaxOf2Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab42_EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab43_NestedTernary_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab44_NestedTernary_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab45_UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab46_Inc_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab47_Inc_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab48_Inc_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab49_Inc_P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab50_Decrmnt_P5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab51_User_Input_CLI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab52_MaxOf2_UserInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +61,7 @@
   "keyToString": {
     "Application.HelloWorld.executor": "Run",
     "Application.LAb23_Relational_Operators.executor": "Run",
+    "Application.LAb47_Inc_P2.executor": "Run",
     "Application.Lab001_HelloWorldProgram.executor": "Run",
     "Application.Lab002_ShortcutHW.executor": "Run",
     "Application.Lab004_Comments.executor": "Run",
@@ -87,6 +97,17 @@
     "Application.Lab38_LargestOf3Num.executor": "Run",
     "Application.Lab39_Question2.executor": "Run",
     "Application.Lab40_Question3.executor": "Run",
+    "Application.Lab41_MAxOf2Num.executor": "Run",
+    "Application.Lab42_EvenOrOdd.executor": "Run",
+    "Application.Lab43_NestedTernary.executor": "Run",
+    "Application.Lab44_NestedTernary_P2.executor": "Run",
+    "Application.Lab45_UserInput.executor": "Run",
+    "Application.Lab46_Inc_Dnc_P1.executor": "Run",
+    "Application.Lab48_Inc_P3.executor": "Run",
+    "Application.Lab49_Inc_P4.executor": "Run",
+    "Application.Lab50_Decrmnt_P5.executor": "Run",
+    "Application.Lab51_User_Input_CLI.executor": "Run",
+    "Application.Lab52_MaxOf2_UserInput.executor": "Run",
     "Application.Printing_9_Table.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -102,13 +123,13 @@
       <recent name="ex_02_java_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab40_Question3">
-    <configuration name="Lab36_TernanayOp_P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab36_TernanayOp_P2" />
+  <component name="RunManager" selected="Application.Lab52_MaxOf2_UserInput">
+    <configuration name="Lab48_Inc_P3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Operator.Lab48_Inc_P3" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab37_CalculateGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab37_CalculateGrade" />
+    <configuration name="Lab49_Inc_P4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Operator.Lab49_Inc_P4" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab38_LargestOf3Num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab38_LargestOf3Num" />
+    <configuration name="Lab50_Decrmnt_P5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Operator.Lab50_Decrmnt_P5" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab39_Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab39_Question2" />
+    <configuration name="Lab51_User_Input_CLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Operator.Lab51_User_Input_CLI" />
       <module name="LearningATB10XJavaProgram" />
+      <option name="PROGRAM_PARAMETERS" value="Megha 10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +177,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab40_Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab40_Question3" />
+    <configuration name="Lab52_MaxOf2_UserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07_Increment_Decrement_Operator.Lab52_MaxOf2_UserInput" />
       <module name="LearningATB10XJavaProgram" />
+      <option name="PROGRAM_PARAMETERS" value="76 100" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_07_Increment_Decrement_Operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,13 +191,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab52_MaxOf2_UserInput" />
+      <item itemvalue="Application.Lab48_Inc_P3" />
+      <item itemvalue="Application.Lab49_Inc_P4" />
+      <item itemvalue="Application.Lab50_Decrmnt_P5" />
+      <item itemvalue="Application.Lab51_User_Input_CLI" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab40_Question3" />
-        <item itemvalue="Application.Lab39_Question2" />
-        <item itemvalue="Application.Lab38_LargestOf3Num" />
-        <item itemvalue="Application.Lab37_CalculateGrade" />
-        <item itemvalue="Application.Lab36_TernanayOp_P2" />
+        <item itemvalue="Application.Lab52_MaxOf2_UserInput" />
+        <item itemvalue="Application.Lab51_User_Input_CLI" />
+        <item itemvalue="Application.Lab50_Decrmnt_P5" />
+        <item itemvalue="Application.Lab49_Inc_P4" />
+        <item itemvalue="Application.Lab48_Inc_P3" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738263933448</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="jan18 Java Class program">
+      <option name="closed" value="true" />
+      <created>1738264925941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738264925941</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
