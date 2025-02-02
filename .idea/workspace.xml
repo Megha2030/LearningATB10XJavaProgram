@@ -4,54 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="jan19 Java Class program">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab53_SimpleIf_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab54_IfElse_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab56_UserInput_ScannerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab57_IfElse_P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab58_IfElse_P4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab59_IfElse_P5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab60_Even_Odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab61_IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab62_GradeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab63_TriangleClassifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/LAb64_Switch_Basics_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/LAb65_Switch_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/Lab66_Switch_P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/Lab67_Switch_P4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/Lab68_Switch_JDK13_Concept_P5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/Lab69_Switch_LamdaExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/Lab70_Switch_P5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/Lab71_Switch_P6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab72_forLoop_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab73_forLoop_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab74_forLoop_Infinite_P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab75_forLoop_P4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab76_forLoop_Infinite_P5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab77_forLoop_P6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab78_forLoop_P7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab79_forLoop_P8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab80_EvenOdd_P9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab81_forLoop_P10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab82_forLoop_P11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab83_EvenOddSep_P12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_11_While/Lab84_while_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_11_While/Lab85_while_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_11_While/Lab86_while_P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_12_DoWhile/Lab87_doWhile_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_12_DoWhile/Lab88_doWhile_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_13_Functions/Lab89_builtInFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_13_Functions/Lab90_UserDefined_Func_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_13_Functions/Lab91_UerDefined_Func_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_13_Functions/Lab92_Airthmatic_Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_13_Functions/Lab93_Functions_P4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_14_Strings/LAb95_String_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_14_Strings/Lab100_StringCompare_P7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_14_Strings/Lab94_String_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_14_Strings/Lab96_String_P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_14_Strings/Lab97_StringFunctions_P4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_14_Strings/Lab98_StringFunctions_P5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ex_14_Strings/Lab99_StringFunctions_P6.java" afterDir="false" />
+    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="jan26 Java Class program">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/PalindromeOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/VowelsAndConstantsCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FizzBuzzTest.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.LAb23_Relational_Operators.executor": "Run",
     "Application.LAb47_Inc_P2.executor": "Run",
@@ -187,6 +144,7 @@
     "Application.Lab97_String_P4.executor": "Run",
     "Application.Lab98_StringFunctions_P5.executor": "Run",
     "Application.Printing_9_Table.executor": "Run",
+    "Application.VowelsAndConstantsCount.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -201,13 +159,13 @@
       <recent name="ex_02_java_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab100_StringCompare_P7">
-    <configuration name="LAb95_String_P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.LAb95_String_P2" />
+  <component name="RunManager" selected="Application.PalindromeOfString">
+    <configuration name="FizzBuzzTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.FizzBuzzTest" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_14_Strings.*" />
+          <option name="PATTERN" value="Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,32 +175,6 @@
     </configuration>
     <configuration name="Lab100_StringCompare_P7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab100_StringCompare_P7" />
-      <module name="LearningATB10XJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_14_Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab94_String_P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab94_String_P1" />
-      <module name="LearningATB10XJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_14_Strings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab97_StringFunctions_P4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14_Strings.Lab97_StringFunctions_P4" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -267,20 +199,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PalindromeOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.PalindromeOfString" />
+      <module name="LearningATB10XJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelsAndConstantsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.VowelsAndConstantsCount" />
+      <module name="LearningATB10XJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.FizzBuzzTest" />
+      <item itemvalue="Application.PalindromeOfString" />
+      <item itemvalue="Application.VowelsAndConstantsCount" />
       <item itemvalue="Application.Lab100_StringCompare_P7" />
-      <item itemvalue="Application.Lab97_StringFunctions_P4" />
       <item itemvalue="Application.Lab98_StringFunctions_P5" />
-      <item itemvalue="Application.LAb95_String_P2" />
-      <item itemvalue="Application.Lab94_String_P1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeOfString" />
+        <item itemvalue="Application.VowelsAndConstantsCount" />
+        <item itemvalue="Application.FizzBuzzTest" />
         <item itemvalue="Application.Lab100_StringCompare_P7" />
         <item itemvalue="Application.Lab98_StringFunctions_P5" />
-        <item itemvalue="Application.Lab97_StringFunctions_P4" />
-        <item itemvalue="Application.LAb95_String_P2" />
-        <item itemvalue="Application.Lab94_String_P1" />
       </list>
     </recent_temporary>
   </component>
@@ -341,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738350100995</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="jan19 Java Class program">
+      <option name="closed" value="true" />
+      <created>1738487563313</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738487563313</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
