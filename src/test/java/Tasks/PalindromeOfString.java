@@ -16,6 +16,6 @@ public class PalindromeOfString {
         {
             rev = rev+str.charAt(i);
         }
-        System.out.println("palindrome of "+str+ " is " + rev);
+        System.out.println("Palindrome of "+str+ " is " + rev);
     }
 }
