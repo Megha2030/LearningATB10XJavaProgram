@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="Task 25th Jan 2025">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/AgeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/MaxOf2Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/PositiveNegativeNumCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/VowelOrConsonant.java" afterDir="false" />
+    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="Task 29th Jan 2025">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/ATM_Withdrawal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/CharacterIsAlphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/GradeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/LargestOf3Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/SmallestOf2Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/SmallestOf3Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/ValidTriangleCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,9 +56,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ATM_Withdrawal.executor": "Run",
     "Application.AgeCheck.executor": "Run",
+    "Application.CharacterIsAlphabet.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
     "Application.FizzBuzzTest.executor": "Run",
+    "Application.GradeCalculator.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.LAb23_Relational_Operators.executor": "Run",
     "Application.LAb47_Inc_P2.executor": "Run",
@@ -147,10 +154,16 @@
     "Application.Lab94_String_P1.executor": "Run",
     "Application.Lab97_String_P4.executor": "Run",
     "Application.Lab98_StringFunctions_P5.executor": "Run",
+    "Application.LargestOf3Num.executor": "Run",
+    "Application.LeapYear.executor": "Run",
     "Application.MaxOf2Num.executor": "Run",
     "Application.PalindromeOfString.executor": "Run",
     "Application.PositiveNegativeNumCheck.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
     "Application.Printing_9_Table.executor": "Run",
+    "Application.SmallestOf2Num.executor": "Run",
+    "Application.SmallestOf3Num.executor": "Run",
+    "Application.ValidTriangleCheck.executor": "Run",
     "Application.VowelOrConsonant.executor": "Run",
     "Application.VowelsAndConstantsCount.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -167,9 +180,9 @@
       <recent name="ex_02_java_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AgeCheck">
-    <configuration name="AgeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.AgeCheck" />
+  <component name="RunManager" selected="Application.ValidTriangleCheck">
+    <configuration name="ATM_Withdrawal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.ATM_Withdrawal" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -181,8 +194,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.EvenOrOdd" />
+    <configuration name="CharacterIsAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.CharacterIsAlphabet" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -194,8 +207,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxOf2Num" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.MaxOf2Num" />
+    <configuration name="GradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.GradeCalculator" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -207,8 +220,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositiveNegativeNumCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.PositiveNegativeNumCheck" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.PrimeNumber" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -220,8 +233,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelOrConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.VowelOrConsonant" />
+    <configuration name="ValidTriangleCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.ValidTriangleCheck" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -234,19 +247,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AgeCheck" />
-      <item itemvalue="Application.EvenOrOdd" />
-      <item itemvalue="Application.MaxOf2Num" />
-      <item itemvalue="Application.PositiveNegativeNumCheck" />
-      <item itemvalue="Application.VowelOrConsonant" />
+      <item itemvalue="Application.ATM_Withdrawal" />
+      <item itemvalue="Application.PrimeNumber" />
+      <item itemvalue="Application.ValidTriangleCheck" />
+      <item itemvalue="Application.CharacterIsAlphabet" />
+      <item itemvalue="Application.GradeCalculator" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AgeCheck" />
-        <item itemvalue="Application.VowelOrConsonant" />
-        <item itemvalue="Application.MaxOf2Num" />
-        <item itemvalue="Application.EvenOrOdd" />
-        <item itemvalue="Application.PositiveNegativeNumCheck" />
+        <item itemvalue="Application.ValidTriangleCheck" />
+        <item itemvalue="Application.ATM_Withdrawal" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.CharacterIsAlphabet" />
+        <item itemvalue="Application.GradeCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738515808568</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Task 29th Jan 2025">
+      <option name="closed" value="true" />
+      <created>1738520164299</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738520164299</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -340,7 +361,8 @@
     <MESSAGE value="jan18 Java Class program" />
     <MESSAGE value="jan19 Java Class program" />
     <MESSAGE value="Task 25th Jan 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 25th Jan 2025" />
+    <MESSAGE value="Task 29th Jan 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 29th Jan 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
