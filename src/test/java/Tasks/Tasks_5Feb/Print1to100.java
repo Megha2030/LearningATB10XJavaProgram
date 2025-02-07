@@ -1,4 +1,4 @@
-package Tasks_5Feb;
+package Tasks.Tasks_5Feb;
 
 public class Print1to100 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Tasks_5Feb;
+package Tasks.Tasks_5Feb;
 
 public class MultiplicationTableOf5 {
     public static void main(String[] args) {
