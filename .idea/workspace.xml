@@ -4,22 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="Task 1 Feb 2025">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/Even1to20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/MultiplicationTableOf5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/Print1to100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/Print1to100WhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/SunOf1st10NaturalNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/While_Even1to20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/While_Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/While_MultiplicationOf7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/While_SumOf10NaturalNum.java" afterDir="false" />
+    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="Task 5 Feb 2025">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/InvertedPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/MultiplicationOfGivenNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Patterns_InvertedRightAngledTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Patterns_RightAngledTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/PrimeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Print10to1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/SumOf1to100.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_1Feb/DaysIntoYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_1Feb/DaysIntoYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_1Feb/NumDivisibleBy5And11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_1Feb/NumDivisibleBy5And11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_1Feb/SeniorCitizenAgeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_1Feb/SeniorCitizenAgeCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_1Feb/WebsiteDomain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_1Feb/WebsiteDomain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,10 +64,12 @@
     "Application.ElectricityBillCalculation.executor": "Run",
     "Application.Even1to20.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
+    "Application.Factorial.executor": "Run",
     "Application.FizzBuzzTest.executor": "Run",
     "Application.GradeCalculator.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.InvertedPyramid.executor": "Run",
     "Application.LAb23_Relational_Operators.executor": "Run",
     "Application.LAb47_Inc_P2.executor": "Run",
     "Application.LAb64_Switch_Basics.executor": "Run",
@@ -168,19 +165,26 @@
     "Application.LeapYear.executor": "Run",
     "Application.LoanEligibilityCheck.executor": "Run",
     "Application.MaxOf2Num.executor": "Run",
+    "Application.MultiplicationOfGivenNum.executor": "Run",
     "Application.MultiplicationTableOf5.executor": "Run",
     "Application.NetSalary.executor": "Run",
     "Application.NumDivisibleBy5And11.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.PalindromeOfString.executor": "Run",
+    "Application.Patterns_InvertedRightAngledTriangle.executor": "Run",
+    "Application.Patterns_RightAngledTriangle.executor": "Run",
     "Application.PositiveNegativeNumCheck.executor": "Run",
+    "Application.PrimeNum.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.Print10to1.executor": "Run",
     "Application.Print1to100.executor": "Run",
     "Application.Print1to100WhileLoop.executor": "Run",
     "Application.Printing_9_Table.executor": "Run",
+    "Application.Pyramid.executor": "Run",
     "Application.SeniorCitizenAgeCheck.executor": "Run",
     "Application.SmallestOf2Num.executor": "Run",
     "Application.SmallestOf3Num.executor": "Run",
+    "Application.SumOf1to100.executor": "Run",
     "Application.SunOf1st10NaturalNum.executor": "Run",
     "Application.ValidTriangleCheck.executor": "Run",
     "Application.VisaStatus.executor": "Run",
@@ -205,13 +209,13 @@
       <recent name="ex_02_java_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.While_MultiplicationOf7">
-    <configuration name="Print1to100WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_5Feb.Print1to100WhileLoop" />
+  <component name="RunManager" selected="Application.InvertedPyramid">
+    <configuration name="InvertedPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Tasks_7Feb.InvertedPyramid" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_5Feb.*" />
+          <option name="PATTERN" value="Tasks.Tasks_7Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While_Even1to20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_5Feb.While_Even1to20" />
+    <configuration name="Patterns_InvertedRightAngledTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Tasks_7Feb.Patterns_InvertedRightAngledTriangle" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_5Feb.*" />
+          <option name="PATTERN" value="Tasks.Tasks_7Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_5Feb.While_Java" />
+    <configuration name="Patterns_RightAngledTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Tasks_7Feb.Patterns_RightAngledTriangle" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_5Feb.*" />
+          <option name="PATTERN" value="Tasks.Tasks_7Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +249,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While_MultiplicationOf7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_5Feb.While_MultiplicationOf7" />
+    <configuration name="PrimeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Tasks_7Feb.PrimeNum" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_5Feb.*" />
+          <option name="PATTERN" value="Tasks.Tasks_7Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="While_SumOf10NaturalNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_5Feb.While_SumOf10NaturalNum" />
+    <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Tasks_7Feb.Pyramid" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_5Feb.*" />
+          <option name="PATTERN" value="Tasks.Tasks_7Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,19 +276,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Print1to100WhileLoop" />
-      <item itemvalue="Application.While_Even1to20" />
-      <item itemvalue="Application.While_Java" />
-      <item itemvalue="Application.While_MultiplicationOf7" />
-      <item itemvalue="Application.While_SumOf10NaturalNum" />
+      <item itemvalue="Application.InvertedPyramid" />
+      <item itemvalue="Application.Patterns_InvertedRightAngledTriangle" />
+      <item itemvalue="Application.Patterns_RightAngledTriangle" />
+      <item itemvalue="Application.PrimeNum" />
+      <item itemvalue="Application.Pyramid" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.While_MultiplicationOf7" />
-        <item itemvalue="Application.While_SumOf10NaturalNum" />
-        <item itemvalue="Application.While_Java" />
-        <item itemvalue="Application.While_Even1to20" />
-        <item itemvalue="Application.Print1to100WhileLoop" />
+        <item itemvalue="Application.InvertedPyramid" />
+        <item itemvalue="Application.Pyramid" />
+        <item itemvalue="Application.Patterns_RightAngledTriangle" />
+        <item itemvalue="Application.Patterns_InvertedRightAngledTriangle" />
+        <item itemvalue="Application.PrimeNum" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +405,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738953399877</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Task 5 Feb 2025">
+      <option name="closed" value="true" />
+      <created>1738955514865</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738955514865</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Task 5 Feb 2025">
+      <option name="closed" value="true" />
+      <created>1738955593391</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738955593391</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -414,7 +434,8 @@
     <MESSAGE value="Task 30th Jan 2025" />
     <MESSAGE value="Task 31 Jan 2025" />
     <MESSAGE value="Task 1 Feb 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 1 Feb 2025" />
+    <MESSAGE value="Task 5 Feb 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 5 Feb 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
