@@ -4,118 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="Task 31 Jan 2025">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_1Feb/DaysIntoYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_1Feb/NumDivisibleBy5And11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_1Feb/SeniorCitizenAgeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_1Feb/WebsiteDomain.java" afterDir="false" />
+    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="Task 1 Feb 2025">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/Even1to20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/MultiplicationTableOf5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/Print1to100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/Print1to100WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/SunOf1st10NaturalNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/While_Even1to20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/While_Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/While_MultiplicationOf7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks_5Feb/While_SumOf10NaturalNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_31Jan/ElectricityBillCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_31Jan/ElectricityBillCalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_31Jan/LoanEligibilityCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_31Jan/LoanEligibilityCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_31Jan/NetSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_31Jan/NetSalary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_31Jan/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_31Jan/PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_31Jan/VisaStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_31Jan/VisaStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_01_java_basics/Lab001_HelloWorldProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_01_java_basics/Lab001_HelloWorldProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_01_java_basics/Lab002_ShortcutHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_01_java_basics/Lab002_ShortcutHW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_01_java_basics/Lab003_NoMainmethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_01_java_basics/Lab003_NoMainmethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_01_java_basics/Lab004_Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_01_java_basics/Lab004_Comments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_01_java_basics/Lab005_CommonMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_01_java_basics/Lab005_CommonMath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_01_java_basics/Lab006_Keywords_Identifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_01_java_basics/Lab006_Keywords_Identifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_01_java_basics/Lab007_println_print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_01_java_basics/Lab007_println_print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab008_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_02_java_basics/Lab008_Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab009_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_02_java_basics/Lab009_Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab010_Variable_Namings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_02_java_basics/Lab010_Variable_Namings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab011_Numeric_DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_02_java_basics/Lab011_Numeric_DataType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab012_printf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_02_java_basics/Lab012_printf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Lab013_constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_02_java_basics/Lab013_constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_02_java_basics/Printing_9_Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_02_java_basics/Printing_9_Table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab14_Literals_P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_03_Literals/Lab14_Literals_P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab15_Literals_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_03_Literals/Lab15_Literals_P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab16_Boolean_Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_03_Literals/Lab16_Boolean_Literals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab17_Literals_P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_03_Literals/Lab17_Literals_P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab18_Character_Literals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_03_Literals/Lab18_Character_Literals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_03_Literals/Lab19_NonPrimitive_Literal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_03_Literals/Lab19_NonPrimitive_Literal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/LAb23_Relational_Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/LAb23_Relational_Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab20_Assignment_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab20_Assignment_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab21_Arithematic_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab21_Arithematic_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab22_Unary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab22_Unary_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab24_Concat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab24_Concat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab25_BODMAS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab25_BODMAS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab26_Logical_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab26_Logical_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab27_Comparator_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab27_Comparator_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab28_Interview_Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab28_Interview_Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab30_AND_OR_Gate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab30_AND_OR_Gate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab31_interview_question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab31_interview_question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab32_Interview_Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab32_Interview_Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_04_Operators/Lab33_Interview_Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab33_Interview_Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_05_TypeCast/Lab34_Implicit_TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_05_TypeCast/Lab34_Implicit_TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_05_TypeCast/Lab35_Explicit_TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_05_TypeCast/Lab35_Explicit_TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_05_TypeCast/Lab36_TypeCast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_05_TypeCast/Lab36_TypeCast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab35_TernanayOp_P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_06_Ternary_Operator/Lab35_TernanayOp_P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab36_TernanayOp_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_06_Ternary_Operator/Lab36_TernanayOp_P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab37_CalculateGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_06_Ternary_Operator/Lab37_CalculateGrade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab38_LargestOf3Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_06_Ternary_Operator/Lab38_LargestOf3Num.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab39_Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_06_Ternary_Operator/Lab39_Question2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab40_Question3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_06_Ternary_Operator/Lab40_Question3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab41_MaxOf2Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_06_Ternary_Operator/Lab41_MaxOf2Num.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab42_EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_06_Ternary_Operator/Lab42_EvenOrOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab43_NestedTernary_P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_06_Ternary_Operator/Lab43_NestedTernary_P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab44_NestedTernary_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_06_Ternary_Operator/Lab44_NestedTernary_P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_06_Ternary_Operator/Lab45_UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_06_Ternary_Operator/Lab45_UserInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab46_Inc_P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_07_Increment_Decrement_Operator/Lab46_Inc_P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab47_Inc_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_07_Increment_Decrement_Operator/Lab47_Inc_P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab48_Inc_P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_07_Increment_Decrement_Operator/Lab48_Inc_P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab49_Inc_P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_07_Increment_Decrement_Operator/Lab49_Inc_P4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab50_Decrmnt_P5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_07_Increment_Decrement_Operator/Lab50_Decrmnt_P5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab51_User_Input_CLI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_07_Increment_Decrement_Operator/Lab51_User_Input_CLI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_07_Increment_Decrement_Operator/Lab52_MaxOf2_UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_07_Increment_Decrement_Operator/Lab52_MaxOf2_UserInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab53_SimpleIf_P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_08_IfElse_Condition/Lab53_SimpleIf_P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab54_IfElse_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_08_IfElse_Condition/Lab54_IfElse_P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab56_UserInput_ScannerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_08_IfElse_Condition/Lab56_UserInput_ScannerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab57_IfElse_P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_08_IfElse_Condition/Lab57_IfElse_P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab58_IfElse_P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_08_IfElse_Condition/Lab58_IfElse_P4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab59_IfElse_P5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_08_IfElse_Condition/Lab59_IfElse_P5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab60_Even_Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_08_IfElse_Condition/Lab60_Even_Odd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab61_IfElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_08_IfElse_Condition/Lab61_IfElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab62_GradeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_08_IfElse_Condition/Lab62_GradeCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_08_IfElse_Condition/Lab63_TriangleClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_08_IfElse_Condition/Lab63_TriangleClassifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/LAb64_Switch_Basics_P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_09_Switch_Condition/LAb64_Switch_Basics_P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/LAb65_Switch_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_09_Switch_Condition/LAb65_Switch_P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/Lab66_Switch_P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_09_Switch_Condition/Lab66_Switch_P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/Lab67_Switch_P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_09_Switch_Condition/Lab67_Switch_P4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/Lab68_Switch_JDK13_Concept_P5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_09_Switch_Condition/Lab68_Switch_JDK13_Concept_P5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/Lab69_Switch_LamdaExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_09_Switch_Condition/Lab69_Switch_LamdaExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/Lab70_Switch_P5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_09_Switch_Condition/Lab70_Switch_P5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_09_Switch_Condition/Lab71_Switch_P6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_09_Switch_Condition/Lab71_Switch_P6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab72_forLoop_P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_10_Loops/Lab72_forLoop_P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab73_forLoop_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_10_Loops/Lab73_forLoop_P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab74_forLoop_Infinite_P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_10_Loops/Lab74_forLoop_Infinite_P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab75_forLoop_P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_10_Loops/Lab75_forLoop_P4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab76_forLoop_Infinite_P5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_10_Loops/Lab76_forLoop_Infinite_P5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab77_forLoop_P6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_10_Loops/Lab77_forLoop_P6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab78_forLoop_P7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_10_Loops/Lab78_forLoop_P7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab79_forLoop_P8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_10_Loops/Lab79_forLoop_P8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab80_EvenOdd_P9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_10_Loops/Lab80_EvenOdd_P9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab81_forLoop_P10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_10_Loops/Lab81_forLoop_P10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab82_forLoop_P11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_10_Loops/Lab82_forLoop_P11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_10_Loops/Lab83_EvenOddSep_P12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_10_Loops/Lab83_EvenOddSep_P12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_11_While/Lab84_while_P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_11_While/Lab84_while_P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_11_While/Lab85_while_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_11_While/Lab85_while_P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_11_While/Lab86_while_P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_11_While/Lab86_while_P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_12_DoWhile/Lab87_doWhile_P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_12_DoWhile/Lab87_doWhile_P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_12_DoWhile/Lab88_doWhile_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_12_DoWhile/Lab88_doWhile_P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_13_Functions/Lab89_builtInFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_13_Functions/Lab89_builtInFunc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_13_Functions/Lab90_UserDefined_Func_P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_13_Functions/Lab90_UserDefined_Func_P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_13_Functions/Lab91_UerDefined_Func_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_13_Functions/Lab91_UerDefined_Func_P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_13_Functions/Lab92_Airthmatic_Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_13_Functions/Lab92_Airthmatic_Functions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_13_Functions/Lab93_Functions_P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_13_Functions/Lab93_Functions_P4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_14_Strings/LAb95_String_P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_14_Strings/LAb95_String_P2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_14_Strings/Lab100_StringCompare_P7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_14_Strings/Lab100_StringCompare_P7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_14_Strings/Lab94_String_P1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_14_Strings/Lab94_String_P1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_14_Strings/Lab96_String_P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_14_Strings/Lab96_String_P3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_14_Strings/Lab97_StringFunctions_P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_14_Strings/Lab97_StringFunctions_P4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_14_Strings/Lab98_StringFunctions_P5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_14_Strings/Lab98_StringFunctions_P5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ex_14_Strings/Lab99_StringFunctions_P6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_14_Strings/Lab99_StringFunctions_P6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_1Feb/DaysIntoYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_1Feb/DaysIntoYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_1Feb/NumDivisibleBy5And11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_1Feb/NumDivisibleBy5And11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_1Feb/SeniorCitizenAgeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_1Feb/SeniorCitizenAgeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks_1Feb/WebsiteDomain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_1Feb/WebsiteDomain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,9 +67,11 @@
     "Application.CharacterIsAlphabet.executor": "Run",
     "Application.DaysIntoYear.executor": "Run",
     "Application.ElectricityBillCalculation.executor": "Run",
+    "Application.Even1to20.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
     "Application.FizzBuzzTest.executor": "Run",
     "Application.GradeCalculator.executor": "Run",
+    "Application.Hello.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.LAb23_Relational_Operators.executor": "Run",
     "Application.LAb47_Inc_P2.executor": "Run",
@@ -262,20 +168,29 @@
     "Application.LeapYear.executor": "Run",
     "Application.LoanEligibilityCheck.executor": "Run",
     "Application.MaxOf2Num.executor": "Run",
+    "Application.MultiplicationTableOf5.executor": "Run",
     "Application.NetSalary.executor": "Run",
     "Application.NumDivisibleBy5And11.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.PalindromeOfString.executor": "Run",
     "Application.PositiveNegativeNumCheck.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
+    "Application.Print1to100.executor": "Run",
+    "Application.Print1to100WhileLoop.executor": "Run",
     "Application.Printing_9_Table.executor": "Run",
+    "Application.SeniorCitizenAgeCheck.executor": "Run",
     "Application.SmallestOf2Num.executor": "Run",
     "Application.SmallestOf3Num.executor": "Run",
+    "Application.SunOf1st10NaturalNum.executor": "Run",
     "Application.ValidTriangleCheck.executor": "Run",
     "Application.VisaStatus.executor": "Run",
     "Application.VowelOrConsonant.executor": "Run",
     "Application.VowelsAndConstantsCount.executor": "Run",
     "Application.WebsiteDomain.executor": "Run",
+    "Application.While_Even1to20.executor": "Run",
+    "Application.While_Java.executor": "Run",
+    "Application.While_MultiplicationOf7.executor": "Run",
+    "Application.While_SumOf10NaturalNum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -290,13 +205,13 @@
       <recent name="ex_02_java_basics" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="DaysIntoYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_1Feb.DaysIntoYear" />
+  <component name="RunManager" selected="Application.While_MultiplicationOf7">
+    <configuration name="Print1to100WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_5Feb.Print1to100WhileLoop" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_1Feb.*" />
+          <option name="PATTERN" value="Tasks_5Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElectricityBillCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_31Jan.ElectricityBillCalculation" />
+    <configuration name="While_Even1to20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_5Feb.While_Even1to20" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_31Jan.*" />
+          <option name="PATTERN" value="Tasks_5Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumDivisibleBy5And11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_1Feb.NumDivisibleBy5And11" />
+    <configuration name="While_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_5Feb.While_Java" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_1Feb.*" />
+          <option name="PATTERN" value="Tasks_5Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VisaStatus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_31Jan.VisaStatus" />
+    <configuration name="While_MultiplicationOf7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_5Feb.While_MultiplicationOf7" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_31Jan.*" />
+          <option name="PATTERN" value="Tasks_5Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebsiteDomain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks_1Feb.WebsiteDomain" />
+    <configuration name="While_SumOf10NaturalNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks_5Feb.While_SumOf10NaturalNum" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks_1Feb.*" />
+          <option name="PATTERN" value="Tasks_5Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,19 +272,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DaysIntoYear" />
-      <item itemvalue="Application.NumDivisibleBy5And11" />
-      <item itemvalue="Application.VisaStatus" />
-      <item itemvalue="Application.WebsiteDomain" />
-      <item itemvalue="Application.ElectricityBillCalculation" />
+      <item itemvalue="Application.Print1to100WhileLoop" />
+      <item itemvalue="Application.While_Even1to20" />
+      <item itemvalue="Application.While_Java" />
+      <item itemvalue="Application.While_MultiplicationOf7" />
+      <item itemvalue="Application.While_SumOf10NaturalNum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WebsiteDomain" />
-        <item itemvalue="Application.DaysIntoYear" />
-        <item itemvalue="Application.NumDivisibleBy5And11" />
-        <item itemvalue="Application.VisaStatus" />
-        <item itemvalue="Application.ElectricityBillCalculation" />
+        <item itemvalue="Application.While_MultiplicationOf7" />
+        <item itemvalue="Application.While_SumOf10NaturalNum" />
+        <item itemvalue="Application.While_Java" />
+        <item itemvalue="Application.While_Even1to20" />
+        <item itemvalue="Application.Print1to100WhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -478,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738950978572</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Task 1 Feb 2025">
+      <option name="closed" value="true" />
+      <created>1738953399877</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738953399877</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -490,7 +413,8 @@
     <MESSAGE value="Task 29th Jan 2025" />
     <MESSAGE value="Task 30th Jan 2025" />
     <MESSAGE value="Task 31 Jan 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 31 Jan 2025" />
+    <MESSAGE value="Task 1 Feb 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1 Feb 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

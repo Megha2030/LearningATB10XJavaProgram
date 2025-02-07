@@ -1,4 +1,4 @@
-package Tasks_1Feb;
+package Tasks.Tasks_1Feb;
 
 import java.util.Scanner;
 /*24)  Determine the Type of Website Based on Domain (.com, .org, .edu, etc.)

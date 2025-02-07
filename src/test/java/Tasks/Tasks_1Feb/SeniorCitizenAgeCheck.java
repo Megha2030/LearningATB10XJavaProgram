@@ -1,4 +1,4 @@
-package Tasks_1Feb;
+package Tasks.Tasks_1Feb;
 /*
 Find if a Person is Senior Citizen Based on Age.
          :- take the age input from the user.

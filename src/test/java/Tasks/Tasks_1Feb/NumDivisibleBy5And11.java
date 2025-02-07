@@ -1,4 +1,4 @@
-package Tasks_1Feb;
+package Tasks.Tasks_1Feb;
 
 import java.util.Scanner;
 //Check if a Number is Divisible by 5 and 11
