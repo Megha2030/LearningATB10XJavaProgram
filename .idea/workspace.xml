@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="Task 5 Feb 2025">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/InvertedPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/MultiplicationOfGivenNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Patterns_InvertedRightAngledTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Patterns_RightAngledTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/PrimeNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Print10to1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/SumOf1to100.java" afterDir="false" />
+    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="7 Feb commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_15_StringFunctions/Lab101_String_func.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_15_StringFunctions/Lab102_StringandBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +80,8 @@
     "Application.Lab014_Variables.executor": "Run",
     "Application.Lab015_Variables.executor": "Run",
     "Application.Lab100_StringCompare_P7.executor": "Run",
+    "Application.Lab101_String_func.executor": "Run",
+    "Application.Lab102_StringandBuilder.executor": "Run",
     "Application.Lab15_Literals_P2.executor": "Run",
     "Application.Lab16_Boolean_Literals.executor": "Run",
     "Application.Lab17_Literals_P3.executor": "Run",
@@ -209,7 +204,7 @@
       <recent name="ex_02_java_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InvertedPyramid">
+  <component name="RunManager">
     <configuration name="InvertedPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tasks.Tasks_7Feb.InvertedPyramid" />
       <module name="LearningATB10XJavaProgram" />
@@ -421,7 +416,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738955593391</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="7 Feb commit">
+      <option name="closed" value="true" />
+      <created>1738959575297</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738959575297</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -435,7 +438,8 @@
     <MESSAGE value="Task 31 Jan 2025" />
     <MESSAGE value="Task 1 Feb 2025" />
     <MESSAGE value="Task 5 Feb 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 5 Feb 2025" />
+    <MESSAGE value="7 Feb commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 Feb commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
