@@ -4,10 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="7 Feb commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_15_StringFunctions/Lab101_String_func.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_15_StringFunctions/Lab102_StringandBuilder.java" afterDir="false" />
+    <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="class prog">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/LAb108_Array_MAxValue_P6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab103_Array_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab104_Array_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab105_Array_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab106_Array_P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab107_Array_Sort_P5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab109_Array_MinValue_P7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab110_ReverseArray_P8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab111_SumOfArray_P9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab112_Array_ForEach_P10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab113_Array_SecondLargest_P11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab114_Array_UserInput_P12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab115_StringArray_P13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab116_FloatArray_P14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab117_NegativeArray_P15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab118_2DArray_P16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab119_2DArray_P17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/Lab120_2DArray_Iterate_P17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_17_OOPS/Lab121_Student_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_17_OOPS/Lab122_Person_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_17_OOPS/Lab123_Dog_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_17_OOPS/Lab124_ClassWithinAnotherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_17_OOPS/Lab125_Cats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Task_9Feb/SecondSmallestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Task_9Feb/SortingArrayWithoutInbuiltFuc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Pyramid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +87,7 @@
     "Application.Hello.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.InvertedPyramid.executor": "Run",
+    "Application.LAb108_Array_MAxValue_P6.executor": "Debug",
     "Application.LAb23_Relational_Operators.executor": "Run",
     "Application.LAb47_Inc_P2.executor": "Run",
     "Application.LAb64_Switch_Basics.executor": "Run",
@@ -82,6 +107,18 @@
     "Application.Lab100_StringCompare_P7.executor": "Run",
     "Application.Lab101_String_func.executor": "Run",
     "Application.Lab102_StringandBuilder.executor": "Run",
+    "Application.Lab103_Array.executor": "Run",
+    "Application.Lab104_Array_P2.executor": "Run",
+    "Application.Lab105_Array_P3.executor": "Run",
+    "Application.Lab106_Array_P4.executor": "Debug",
+    "Application.Lab107_Array_Sort_P5.executor": "Run",
+    "Application.Lab109_Array_MinValue.executor": "Run",
+    "Application.Lab114_Array_UserInput_P12.executor": "Run",
+    "Application.Lab115_StringArray_P13.executor": "Run",
+    "Application.Lab116_FloatArray_P14.executor": "Run",
+    "Application.Lab117_NegativeArray_P15.executor": "Run",
+    "Application.Lab120_2DArray_Iterate_P17.executor": "Run",
+    "Application.Lab125_Cats.executor": "Run",
     "Application.Lab15_Literals_P2.executor": "Run",
     "Application.Lab16_Boolean_Literals.executor": "Run",
     "Application.Lab17_Literals_P3.executor": "Run",
@@ -156,6 +193,10 @@
     "Application.Lab94_String_P1.executor": "Run",
     "Application.Lab97_String_P4.executor": "Run",
     "Application.Lab98_StringFunctions_P5.executor": "Run",
+    "Application.Lab_109_ReverseArray_P8.executor": "Run",
+    "Application.Lab_111_SumOfArray_P9.executor": "Run",
+    "Application.Lab_112_Array_ForEach.executor": "Run",
+    "Application.Lab_113_Array_SecondLargest_P11.executor": "Run",
     "Application.LargestOf3Num.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.LoanEligibilityCheck.executor": "Run",
@@ -175,10 +216,12 @@
     "Application.Print1to100.executor": "Run",
     "Application.Print1to100WhileLoop.executor": "Run",
     "Application.Printing_9_Table.executor": "Run",
-    "Application.Pyramid.executor": "Run",
+    "Application.Pyramid.executor": "Debug",
+    "Application.SecondSmallestArray.executor": "Run",
     "Application.SeniorCitizenAgeCheck.executor": "Run",
     "Application.SmallestOf2Num.executor": "Run",
     "Application.SmallestOf3Num.executor": "Run",
+    "Application.SortingArrayWithoutInbuiltFuc.executor": "Run",
     "Application.SumOf1to100.executor": "Run",
     "Application.SunOf1st10NaturalNum.executor": "Run",
     "Application.ValidTriangleCheck.executor": "Run",
@@ -204,7 +247,7 @@
       <recent name="ex_02_java_basics" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Lab125_Cats">
     <configuration name="InvertedPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tasks.Tasks_7Feb.InvertedPyramid" />
       <module name="LearningATB10XJavaProgram" />
@@ -218,38 +261,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Patterns_InvertedRightAngledTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Tasks_7Feb.Patterns_InvertedRightAngledTriangle" />
+    <configuration name="Lab125_Cats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.ex_17_OOPS.Lab125_Cats" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks.Tasks_7Feb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Patterns_RightAngledTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Tasks_7Feb.Patterns_RightAngledTriangle" />
-      <module name="LearningATB10XJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tasks.Tasks_7Feb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Tasks_7Feb.PrimeNum" />
-      <module name="LearningATB10XJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tasks.Tasks_7Feb.*" />
+          <option name="PATTERN" value="Programs.ex_17_OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,20 +287,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondSmallestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task_9Feb.SecondSmallestArray" />
+      <module name="LearningATB10XJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tasks.Task_9Feb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingArrayWithoutInbuiltFuc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task_9Feb.SortingArrayWithoutInbuiltFuc" />
+      <module name="LearningATB10XJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tasks.Task_9Feb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Lab125_Cats" />
       <item itemvalue="Application.InvertedPyramid" />
-      <item itemvalue="Application.Patterns_InvertedRightAngledTriangle" />
-      <item itemvalue="Application.Patterns_RightAngledTriangle" />
-      <item itemvalue="Application.PrimeNum" />
       <item itemvalue="Application.Pyramid" />
+      <item itemvalue="Application.SecondSmallestArray" />
+      <item itemvalue="Application.SortingArrayWithoutInbuiltFuc" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InvertedPyramid" />
+        <item itemvalue="Application.Lab125_Cats" />
         <item itemvalue="Application.Pyramid" />
-        <item itemvalue="Application.Patterns_RightAngledTriangle" />
-        <item itemvalue="Application.Patterns_InvertedRightAngledTriangle" />
-        <item itemvalue="Application.PrimeNum" />
+        <item itemvalue="Application.InvertedPyramid" />
+        <item itemvalue="Application.SecondSmallestArray" />
+        <item itemvalue="Application.SortingArrayWithoutInbuiltFuc" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738959575297</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="class prog">
+      <option name="closed" value="true" />
+      <created>1739125783239</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739125783239</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -439,7 +490,8 @@
     <MESSAGE value="Task 1 Feb 2025" />
     <MESSAGE value="Task 5 Feb 2025" />
     <MESSAGE value="7 Feb commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 Feb commit" />
+    <MESSAGE value="class prog" />
+    <option name="LAST_COMMIT_MESSAGE" value="class prog" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -447,7 +499,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/Programs/ex_04_Operators/Lab28_Interview_Question.java</url>
           <line>3</line>
-          <properties class="Programs.ex_04_Operators.Lab28_Interview_Question">
+          <properties class="Programs.ex_04_Operators.Lab28_Interview_Question" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -456,11 +508,56 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/Programs/ex_06_Ternary_Operator/Lab40_Question3.java</url>
           <line>3</line>
-          <properties class="Programs.ex_06_Ternary_Operator.Lab40_Question3">
+          <properties class="Programs.ex_06_Ternary_Operator.Lab40_Question3" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/LAb108_Array_MAxValue_P6.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/LAb108_Array_MAxValue_P6.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/LAb108_Array_MAxValue_P6.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Programs/ex_16_Arrays/LAb108_Array_MAxValue_P6.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Pyramid.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Pyramid.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Pyramid.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Pyramid.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tasks/Tasks_7Feb/Pyramid.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
