@@ -5,34 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="642c8065-ca97-4981-b673-fa2bdca59e0f" name="Changes" comment="class programs">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_18_Constructors/LAb127_InstanceInitializationBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_18_Constructors/Lab126_Constructor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_18_Constructors/Lab128_Const_IIB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_18_Constructors/Lab129_Constructor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_18_Constructors/Lab130_Car_Const.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_18_Constructors/Lab131_CarClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_18_Constructors/Lab132_Parametrized_Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_18_Constructors/Lab133_Parameterized_Construc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_18_Constructors/Parameterized_const_Call.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_19_Inheritance/Lab134_SingleInheritance_ParentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_19_Inheritance/MultilevelInh/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_19_Inheritance/MultilevelInh/GrandFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_19_Inheritance/MultilevelInh/Lab135_Multilevel_Inheritence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_19_Inheritance/MultilevelInh/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_19_Inheritance/SingleInheritance_ChildClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_20_MethodOverloading/Add.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_20_MethodOverloading/Lab135_Add_MethOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_21_MethodOverriding/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_21_MethodOverriding/Lab136_MethodOveride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_21_MethodOverriding/RealExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_21_MethodOverriding/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_22_Encapsulation/Lab137_Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_22_Encapsulation/RealExample/Lab138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_23_AccessModifier/Criminal/Thief.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_23_AccessModifier/Lab138_CommonClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_23_AccessModifier/Police/Cop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_23_AccessModifier/Police/JuniorCop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_24_Super/Lab139_super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_24_Super/Lab140_Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_25_Abstraction_Interfaces/Lab141_AC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_25_Abstraction_Interfaces/Lab141_Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_25_Abstraction_Interfaces/Lab142_Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_25_Abstraction_Interfaces/Lab143_Interfaces2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_25_Abstraction_Interfaces/Lab144_MultipleInheritance_solved.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_26_Static/Lab145_Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_26_Static/Lab146_Static_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_26_Static/Lab147_Static_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_26_Static/Lab148_RealEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_27_ENUM/Lab149_enum_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_27_ENUM/Lab150_Enum_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_27_ENUM/Lab151_enum_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_28_WrapperClasses/Lab152_WrapperClass_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_28_WrapperClasses/Lab153_WrapperClass_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_28_WrapperClasses/Lab154_Checked_Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_28_WrapperClasses/Lab154_WrapperClass_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_28_WrapperClasses/Lab155_Wrapper_Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab150_Exceptions_p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab156_Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab157_UncheckedExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab158_try_catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab159_try_catch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab160_Multiple_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab161_Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab162_Finally2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab163_Multiple_Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab164_Interview_Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab165_Checked_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab166_Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab167_CustomExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_29_Exceptions/Lab168_Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_30_Generics/Lab169_Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_30_Generics/Lab170_Generics_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab171_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab172_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab173_ListFixedSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab174_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab175_Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab176_ArrayList_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab177_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab178_NestedArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab179_Collections_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab180_ArrayList_UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab181_LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab182_AL_LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab183_AL_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab184_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Lab185_ArrayList_ClassElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/List/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/Map/Lab189_Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/Map/Lab190_HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/Map/Lab191_HashMap_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/Map/Lab192_Map_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/Map/Lab193_Map_within_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/Map/Lab194_HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/Queue/Lab188_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/Set/Lab186_HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Programs/ex_31_Collection_Framework/Set/Lab187_HS_LHS_TS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Task_19Feb/Constructor_Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Task_19Feb/Default_Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Task_19Feb/Parameterized_Const.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +115,9 @@
     "Application.AgeCheck.executor": "Run",
     "Application.Bonus.executor": "Run",
     "Application.CharacterIsAlphabet.executor": "Run",
+    "Application.Constructor_Overloading.executor": "Run",
     "Application.DaysIntoYear.executor": "Run",
+    "Application.Default_Constructor.executor": "Run",
     "Application.ElectricityBillCalculation.executor": "Run",
     "Application.Even1to20.executor": "Run",
     "Application.EvenOrOdd.executor": "Run",
@@ -137,10 +174,64 @@
     "Application.Lab137_Encapsulation.executor": "Run",
     "Application.Lab138.executor": "Run",
     "Application.Lab139_super.executor": "Run",
+    "Application.Lab140_Super.executor": "Run",
+    "Application.Lab141_AC.executor": "Run",
+    "Application.Lab141_Abstraction.executor": "Run",
+    "Application.Lab142_Interfaces.executor": "Run",
+    "Application.Lab143_Interfaces2.executor": "Run",
+    "Application.Lab144_MultipleInheritance_solved.executor": "Run",
+    "Application.Lab145_Static.executor": "Run",
+    "Application.Lab146_Static_P2.executor": "Run",
+    "Application.Lab147_Static_P3.executor": "Run",
+    "Application.Lab148_RealEx.executor": "Run",
+    "Application.Lab149_enum_P1.executor": "Run",
+    "Application.Lab150_Enum_P2.executor": "Run",
+    "Application.Lab150_Exceptions_p2.executor": "Run",
+    "Application.Lab151_enum_P3.executor": "Run",
+    "Application.Lab152_WrapperClass_P1.executor": "Run",
+    "Application.Lab155_Wrapper_Conversion.executor": "Run",
+    "Application.Lab156_Exceptions.executor": "Run",
+    "Application.Lab157_UncheckedExceptions.executor": "Run",
+    "Application.Lab158_try_catch.executor": "Run",
+    "Application.Lab159_try_catch2.executor": "Run",
     "Application.Lab15_Literals_P2.executor": "Run",
+    "Application.Lab160_Multiple_Exception.executor": "Run",
+    "Application.Lab161_Finally.executor": "Run",
+    "Application.Lab161_Finally2.executor": "Run",
+    "Application.Lab163_Multiple_Exceptions.executor": "Run",
+    "Application.Lab164_Interview_Question.executor": "Run",
+    "Application.Lab165_Checked_Exception.executor": "Run",
+    "Application.Lab166_Throws.executor": "Run",
+    "Application.Lab167_CustomExceptions.executor": "Run",
+    "Application.Lab168_Throws.executor": "Run",
+    "Application.Lab169_Generics.executor": "Run",
     "Application.Lab16_Boolean_Literals.executor": "Run",
+    "Application.Lab170_Generics_P2.executor": "Run",
+    "Application.Lab171_List.executor": "Run",
+    "Application.Lab172_ArrayList.executor": "Run",
+    "Application.Lab173_ListFixedSize.executor": "Run",
+    "Application.Lab174_LinkedList.executor": "Run",
+    "Application.Lab175_Vector.executor": "Run",
+    "Application.Lab176_ArrayList_loop.executor": "Run",
+    "Application.Lab177_Iterator.executor": "Run",
+    "Application.Lab178_NestedArrayList.executor": "Run",
+    "Application.Lab179_Collections_Sort.executor": "Run",
     "Application.Lab17_Literals_P3.executor": "Run",
+    "Application.Lab180_ArrayList_UserInput.executor": "Run",
+    "Application.Lab181_LinkedList.executor": "Run",
+    "Application.Lab182_AL_LL.executor": "Run",
+    "Application.Lab183_AL_Iterator.executor": "Run",
+    "Application.Lab184_Stack.executor": "Run",
+    "Application.Lab185_ArrayList_ClassElement.executor": "Run",
+    "Application.Lab186_HashSet.executor": "Run",
+    "Application.Lab187_HS_LHS_TS.executor": "Run",
+    "Application.Lab188_Queue.executor": "Run",
     "Application.Lab18_Character_Literals.executor": "Run",
+    "Application.Lab190_HashMap.executor": "Run",
+    "Application.Lab191_HashMap_P2.executor": "Run",
+    "Application.Lab191_Map_Iterator.executor": "Run",
+    "Application.Lab193_Map_within_ArrayList.executor": "Run",
+    "Application.Lab194_HashTable.executor": "Run",
     "Application.Lab19_NonPrimitive_Literal.executor": "Run",
     "Application.Lab21_Arithematic_Operator.executor": "Run",
     "Application.Lab22_Unary_Operator.executor": "Run",
@@ -215,6 +306,7 @@
     "Application.Lab_111_SumOfArray_P9.executor": "Run",
     "Application.Lab_112_Array_ForEach.executor": "Run",
     "Application.Lab_113_Array_SecondLargest_P11.executor": "Run",
+    "Application.Lab_189_HashMap.executor": "Run",
     "Application.LargestOf3Num.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.LoanEligibilityCheck.executor": "Run",
@@ -225,6 +317,7 @@
     "Application.NumDivisibleBy5And11.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
     "Application.PalindromeOfString.executor": "Run",
+    "Application.Parameterized_Const.executor": "Run",
     "Application.Parameterized_const_Call.executor": "Run",
     "Application.Patterns_InvertedRightAngledTriangle.executor": "Run",
     "Application.Patterns_RightAngledTriangle.executor": "Run",
@@ -268,13 +361,13 @@
       <recent name="ex_02_java_basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab139_super">
-    <configuration name="JuniorCop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.ex_23_AccessModifier.Police.JuniorCop" />
+  <component name="RunManager" selected="Application.Parameterized_Const">
+    <configuration name="Constructor_Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task_19Feb.Constructor_Overloading" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.ex_23_AccessModifier.Police.*" />
+          <option name="PATTERN" value="Tasks.Task_19Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,12 +375,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab137_Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.ex_22_Encapsulation.Lab137_Encapsulation" />
+    <configuration name="Default_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task_19Feb.Default_Constructor" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.ex_22_Encapsulation.*" />
+          <option name="PATTERN" value="Tasks.Task_19Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,12 +388,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.ex_22_Encapsulation.RealExample.Lab138" />
+    <configuration name="Lab193_Map_within_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.ex_31_Collection_Framework.Map.Lab193_Map_within_ArrayList" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.ex_22_Encapsulation.RealExample.*" />
+          <option name="PATTERN" value="Programs.ex_31_Collection_Framework.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,12 +401,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab139_super" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.ex_24_Super.Lab139_super" />
+    <configuration name="Lab194_HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.ex_31_Collection_Framework.Map.Lab194_HashTable" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.ex_24_Super.*" />
+          <option name="PATTERN" value="Programs.ex_31_Collection_Framework.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,12 +414,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RealExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.ex_21_MethodOverriding.RealExample" />
+    <configuration name="Parameterized_Const" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tasks.Task_19Feb.Parameterized_Const" />
       <module name="LearningATB10XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.ex_21_MethodOverriding.*" />
+          <option name="PATTERN" value="Tasks.Task_19Feb.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,19 +428,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JuniorCop" />
-      <item itemvalue="Application.Lab137_Encapsulation" />
-      <item itemvalue="Application.Lab138" />
-      <item itemvalue="Application.Lab139_super" />
-      <item itemvalue="Application.RealExample" />
+      <item itemvalue="Application.Constructor_Overloading" />
+      <item itemvalue="Application.Default_Constructor" />
+      <item itemvalue="Application.Parameterized_Const" />
+      <item itemvalue="Application.Lab193_Map_within_ArrayList" />
+      <item itemvalue="Application.Lab194_HashTable" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab139_super" />
-        <item itemvalue="Application.JuniorCop" />
-        <item itemvalue="Application.Lab138" />
-        <item itemvalue="Application.Lab137_Encapsulation" />
-        <item itemvalue="Application.RealExample" />
+        <item itemvalue="Application.Parameterized_Const" />
+        <item itemvalue="Application.Constructor_Overloading" />
+        <item itemvalue="Application.Default_Constructor" />
+        <item itemvalue="Application.Lab194_HashTable" />
+        <item itemvalue="Application.Lab193_Map_within_ArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +597,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739716777514</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="class programs">
+      <option name="closed" value="true" />
+      <created>1740325695760</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740325695760</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
